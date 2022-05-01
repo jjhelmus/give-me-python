@@ -12,7 +12,7 @@ To build wheels
 ---------------
 
 Start a manylinux2014 docker container:
-````
+```
 docker run -it --rm -v `pwd`:/io quay.io/pypa/manylinux2014_x86_64
 ```
 
